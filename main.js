@@ -14,7 +14,7 @@ class Person {
     }
 }
 
-const neo = new Person('Neo', 28, 'male')
+const neo = new Person('Thomas A. Anderson', 28, 'male')
 
 neo.obtDetails()
 
@@ -139,7 +139,16 @@ maya.defend(azteca.attack());
 
 
 
+
+
+
 ////////////////////////////////////////
 // Ejercicio POO 3 - Il sogno di volare
 
 // POO - Il sogno di volare
+
+const poo3gitHubRepo = 'https://github.com/egoitzaulestia/programacion-avanzada-pp-il-sogno-di-volare/tree/master'
+
+// IMPORTANT NOTE: 
+// I did POO 3 Exercise in another repository
+// Here the GitHub repo of POO 3 Exercise --> https://github.com/egoitzaulestia/programacion-avanzada-pp-il-sogno-di-volare/tree/master
